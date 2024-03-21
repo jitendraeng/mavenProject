@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="TestFirst">
+		<classes>
+			<class name="mavenProject.TestFirst" />
+
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="TestSecond">
+		<classes>
+
+			<class name="mavenProject.TestSecond" />
+
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="TestThird">
+		<classes>
+
+			<class name="mavenProject.TestThird" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="TestFourth">
+		<classes>
+
+			<class name="mavenProject.TestFourth" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

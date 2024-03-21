@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-18T06:23:24Z" name="Suite" finished-at="2024-03-18T06:23:24Z" duration-ms="231">
+    <groups>
+    </groups>
+    <test started-at="2024-03-18T06:23:24Z" name="TestFirst" finished-at="2024-03-18T06:23:24Z" duration-ms="105">
+      <class name="mavenProject.TestFirst">
+        <test-method signature="testfirst()[pri:0, instance:mavenProject.TestFirst@d737b89]" started-at="2024-03-18T06:23:24Z" name="testfirst" finished-at="2024-03-18T06:23:24Z" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfirst -->
+      </class> <!-- mavenProject.TestFirst -->
+    </test> <!-- TestFirst -->
+    <test started-at="2024-03-18T06:23:24Z" name="TestSecond" finished-at="2024-03-18T06:23:24Z" duration-ms="4">
+      <class name="mavenProject.TestSecond">
+        <test-method signature="testsecond()[pri:0, instance:mavenProject.TestSecond@7e057f43]" started-at="2024-03-18T06:23:24Z" name="testsecond" finished-at="2024-03-18T06:23:24Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsecond -->
+      </class> <!-- mavenProject.TestSecond -->
+    </test> <!-- TestSecond -->
+    <test started-at="2024-03-18T06:23:24Z" name="TestThird" finished-at="2024-03-18T06:23:24Z" duration-ms="4">
+      <class name="mavenProject.TestThird">
+        <test-method signature="testthird()[pri:0, instance:mavenProject.TestThird@7d9d0818]" started-at="2024-03-18T06:23:24Z" name="testthird" finished-at="2024-03-18T06:23:24Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testthird -->
+      </class> <!-- mavenProject.TestThird -->
+    </test> <!-- TestThird -->
+    <test started-at="2024-03-18T06:23:24Z" name="TestFourth" finished-at="2024-03-18T06:23:24Z" duration-ms="5">
+      <class name="mavenProject.TestFourth">
+        <test-method signature="testfourth()[pri:0, instance:mavenProject.TestFourth@5ddeb7cb]" started-at="2024-03-18T06:23:24Z" name="testfourth" finished-at="2024-03-18T06:23:24Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfourth -->
+      </class> <!-- mavenProject.TestFourth -->
+    </test> <!-- TestFourth -->
+  </suite> <!-- Suite -->
+</testng-results>
